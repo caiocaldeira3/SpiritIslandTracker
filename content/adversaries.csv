@@ -1,0 +1,9 @@
+id,adversary,set,img,dificulty_level_0,dificulty_level_1,dificulty_level_2,dificulty_level_3,dificulty_level_4,dificulty_level_5,dificulty_level_6,include
+england,Inglaterra,Básico,https://spiritislandwiki.com/images/thumb/e/e1/England_Flag.png/85px-England_Flag.png,1,3,4,6,7,9,11,true
+france,França,Galhos e Garras,https://spiritislandwiki.com/images/thumb/5/57/France_Flag.png/85px-France_Flag.png,2,3,4,7,8,9,10,true
+hab_livestok,Habesburgo (Gado),Terra Arrasada,https://spiritislandwiki.com/images/7/71/Habsburg_Monarchy_%28Livestock_Colony%29_WrinkledFlag.png,2,3,5,6,8,9,10,true
+hab_mining,Habesburgo (Mineração),Natureza Encarnada,https://spiritislandwiki.com/images/1/13/Habsburg_Mining_Expedition_Flag.png,1,3,4,5,7,9,10,true
+prussia,Brandemburgo-Prússia,Básico,https://spiritislandwiki.com/images/thumb/d/de/Brand-Prussia_Flag.png/85px-Brand-Prussia_Flag.png,1,2,4,6,7,9,10,true
+russia,Russia,Terra Arrasada,https://spiritislandwiki.com/images/e/e9/Russia_WrinkledFlag.png,1,3,4,6,7,9,11,true
+scotland,Escóssia,Penas e Chamas,https://spiritislandwiki.com/images/9/9f/Scotland_WrinkledFlag.png,1,3,4,6,7,8,10,true
+sweden,Suécia,Básico,https://spiritislandwiki.com/images/thumb/f/fa/Sweden_Flag.png/85px-Sweden_Flag.png,1,2,3,5,6,7,8,true
