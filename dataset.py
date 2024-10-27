@@ -8,7 +8,7 @@ from structs.rand_oponents import RandAdversary
 from structs.spirit import Spirit
 
 
-class Datasets:
+class Dataset:
     adversaries: pd.DataFrame
     games: pd.DataFrame
     scenarios: pd.DataFrame
